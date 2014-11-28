@@ -1,4 +1,2 @@
-storail
-=======
-
-stóráil
+# stóráil
+(store all)
